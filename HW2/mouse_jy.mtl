@@ -1,0 +1,23 @@
+newmtl mouse_jy_tex0
+Kd 1.0 1.0 1.0
+Ka 0.0 0.0 0.0
+Ks 0.0 0.0 0.0
+d 1.0
+Ns 0.0
+illum 0
+map_Kd mouse_jy_tex0.jpg
+
+
+newmtl mouse_jy_tex1
+Kd 1.0 1.0 1.0
+Ka 0.0 0.0 0.0
+Ks 0.0 0.0 0.0
+d 1.0
+Ns 0.0
+illum 0
+map_Kd mouse_jy_tex1.jpg
+
+
+
+
+#EOF
